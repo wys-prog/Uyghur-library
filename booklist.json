@@ -3,18 +3,14 @@
     "author": "ۋىس",
     "title": "25 Uyghur Wisdoms",
     "description": "25 Uyghur wisdoms with English traduction and explanations.",
-    "cover_png_link": "https://raw.githubusercontent.com/wys-prog/Uyghur-library/main/25_Uyghur_Wisdoms/cover.png",
-    "zip_link": "https://raw.githubusercontent.com/wys-prog/Uyghur-library/main/25_Uyghur_Wisdoms/25_Uyghur_Wisdoms.zip",
-    "library.name": "Wys's Uyghur library",
-    "library.link": "https://raw.githubusercontent.com/wys-prog/Uyghur-library/main/booklist.json"
+    "cover-link": "https://raw.githubusercontent.com/wys-prog/Uyghur-library/main/25_Uyghur_Wisdoms/cover.png",
+    "content-link": "https://raw.githubusercontent.com/wys-prog/Uyghur-library/main/25_Uyghur_Wisdoms/"
   },
   {
     "author": "ۋىس",
     "title": "Morning Fog and the Man",
     "description": "A story. READ IT.",
-    "cover_png_link": "https://raw.githubusercontent.com/wys-prog/Uyghur-library/main/Morning_Fog_and_the_Man/cover.png",
-    "zip_link": "https://raw.githubusercontent.com/wys-prog/Uyghur-library/main/Morning_Fog_and_the_Man/Morning_Fog_and_the_Man.zip",
-    "library.name": "Wys's Uyghur library",
-    "library.link": "https://raw.githubusercontent.com/wys-prog/Uyghur-library/main/booklist.json"
+    "cover-link": "https://raw.githubusercontent.com/wys-prog/Uyghur-library/main/Morning_Fog_and_the_Man/cover.png",
+    "content-link": "https://raw.githubusercontent.com/wys-prog/Uyghur-library/main/Morning_Fog_and_the_Man/"
   }
 ]
